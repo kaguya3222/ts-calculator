@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest --watch",
     "build": "tsc",
-    "build-local": "yarn build && npm link",
+    "build-local": "yarn build && yarn link ts-calculator",
     "lint": "eslint src --ext .ts"
   },
   "keywords": [],
