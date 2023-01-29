@@ -13,7 +13,6 @@
   "plugins": ["@typescript-eslint", "prettier", "jest"],
   "root": true,
   "rules": {
-    "prettier/prettier": "error",
-    "complexity": ["error", 7]
+    "prettier/prettier": "error"
   }
 }
