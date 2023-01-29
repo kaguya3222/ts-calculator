@@ -9,7 +9,12 @@
     "build-local": "yarn build && yarn link ts-calculator",
     "lint": "eslint src --ext .ts"
   },
-  "keywords": [],
+  "keywords": [
+    "calculator",
+    "cli",
+    "typescript",
+    "math"
+  ],
   "bin": {
     "ts-calculator": "dist/index.js"
   },
