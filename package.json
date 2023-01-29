@@ -20,6 +20,10 @@
   },
   "author": "kaguya3222",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaguya3222/ts-calculator.git"
+  },
   "devDependencies": {
     "@babel/preset-typescript": "^7.18.6",
     "@types/jest": "^29.4.0",
