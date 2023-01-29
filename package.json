@@ -1,5 +1,5 @@
 {
-  "name": "ts-calculator",
+  "name": "@kaguya3222/ts-calculator",
   "version": "1.0.0",
   "description": "CLI that calculates simple mathematical expressions",
   "main": "src/index.js",
