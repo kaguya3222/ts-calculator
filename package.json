@@ -1,7 +1,7 @@
 {
   "name": "ts-calculator",
   "version": "1.0.0",
-  "description": "",
+  "description": "CLI that calculates simple mathematical expressions",
   "main": "src/index.js",
   "scripts": {
     "test": "jest",
@@ -13,7 +13,7 @@
   "bin": {
     "ts-calculator": "dist/index.js"
   },
-  "author": "",
+  "author": "kaguya3222",
   "license": "ISC",
   "devDependencies": {
     "@babel/preset-typescript": "^7.18.6",
